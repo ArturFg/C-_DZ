@@ -12,6 +12,10 @@ if (a > b)
 {
     Console.WriteLine($"max = {a}");
 }
+else if (a == b)
+{
+    Console.WriteLine($"Числа {a} и {b} ровны.");
+}
 else
 {
     Console.WriteLine($"max = {b}");
