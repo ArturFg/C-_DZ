@@ -1,0 +1,15 @@
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/bin/Debug/net6.0/DZ_5.1
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/bin/Debug/net6.0/DZ_5.1.deps.json
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/bin/Debug/net6.0/DZ_5.1.runtimeconfig.json
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/bin/Debug/net6.0/DZ_5.1.dll
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/bin/Debug/net6.0/DZ_5.1.pdb
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/obj/Debug/net6.0/DZ_5.1.csproj.AssemblyReference.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/obj/Debug/net6.0/DZ_5.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/obj/Debug/net6.0/DZ_5.1.AssemblyInfoInputs.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/obj/Debug/net6.0/DZ_5.1.AssemblyInfo.cs
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/obj/Debug/net6.0/DZ_5.1.csproj.CoreCompileInputs.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/obj/Debug/net6.0/DZ_5.1.dll
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/obj/Debug/net6.0/refint/DZ_5.1.dll
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/obj/Debug/net6.0/DZ_5.1.pdb
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/obj/Debug/net6.0/DZ_5.1.genruntimeconfig.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_5.1/obj/Debug/net6.0/ref/DZ_5.1.dll
