@@ -1,0 +1,15 @@
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/bin/Debug/net6.0/DZ_9.2
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/bin/Debug/net6.0/DZ_9.2.deps.json
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/bin/Debug/net6.0/DZ_9.2.runtimeconfig.json
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/bin/Debug/net6.0/DZ_9.2.dll
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/bin/Debug/net6.0/DZ_9.2.pdb
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/obj/Debug/net6.0/DZ_9.2.csproj.AssemblyReference.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/obj/Debug/net6.0/DZ_9.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/obj/Debug/net6.0/DZ_9.2.AssemblyInfoInputs.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/obj/Debug/net6.0/DZ_9.2.AssemblyInfo.cs
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/obj/Debug/net6.0/DZ_9.2.csproj.CoreCompileInputs.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/obj/Debug/net6.0/DZ_9.2.dll
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/obj/Debug/net6.0/refint/DZ_9.2.dll
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/obj/Debug/net6.0/DZ_9.2.pdb
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/obj/Debug/net6.0/DZ_9.2.genruntimeconfig.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_9.2/obj/Debug/net6.0/ref/DZ_9.2.dll
