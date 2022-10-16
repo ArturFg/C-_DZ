@@ -1,0 +1,15 @@
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/bin/Debug/net6.0/DZ_8.4
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/bin/Debug/net6.0/DZ_8.4.deps.json
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/bin/Debug/net6.0/DZ_8.4.runtimeconfig.json
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/bin/Debug/net6.0/DZ_8.4.dll
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/bin/Debug/net6.0/DZ_8.4.pdb
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/obj/Debug/net6.0/DZ_8.4.csproj.AssemblyReference.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/obj/Debug/net6.0/DZ_8.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/obj/Debug/net6.0/DZ_8.4.AssemblyInfoInputs.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/obj/Debug/net6.0/DZ_8.4.AssemblyInfo.cs
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/obj/Debug/net6.0/DZ_8.4.csproj.CoreCompileInputs.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/obj/Debug/net6.0/DZ_8.4.dll
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/obj/Debug/net6.0/refint/DZ_8.4.dll
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/obj/Debug/net6.0/DZ_8.4.pdb
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/obj/Debug/net6.0/DZ_8.4.genruntimeconfig.cache
+/Users/arturr/Desktop/С#_DZ/DZ_1/DZ_8.4/obj/Debug/net6.0/ref/DZ_8.4.dll
